@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "ShowWave is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. ShowWave.lol runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+    "description": "ShowWave is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. ShowWave.pw runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
     "faqTitle": "Common questions",
     "q1": {
       "body": "ShowWave does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by ShowWave, everything is through this searching mechanism.",
@@ -220,7 +220,7 @@
   "downtimeNotice": {
     "badge": "Issues",
     "goHome": "Go home",
-    "message": "ShowWave.lol is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
+    "message": "ShowWave.pw is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
     "timeFrame": "<bold>March 31th 11:00 PM - 5:00 AM EST</bold>",
     "title": "Provider issues"
   },

@@ -22,7 +22,7 @@
       "title": "Hvordan kan jeg finde ud af mere?"
     },
     "title": "Om ShowWave (^▽^)",
-    "description": "ShowWave er en variant af movie-web, som er sikret at forblive oppe, selv efter at movie-web.app er lukket ned. ShowWave.lol kører på en privat, selvhostet VPS. Jeg driver denne hjemmeside med underskud; der er ingen reklamer på grund af min tro på gratis medie."
+    "description": "ShowWave er en variant af movie-web, som er sikret at forblive oppe, selv efter at movie-web.app er lukket ned. ShowWave.pw kører på en privat, selvhostet VPS. Jeg driver denne hjemmeside med underskud; der er ingen reklamer på grund af min tro på gratis medie."
   },
   "actions": {
     "copied": "Kopieret",
@@ -212,7 +212,7 @@
     "timeFrame": "<bold>31. marts kl. 23:00 - 5:00 EST</bold>",
     "goHome": "Gå til hjem",
     "title": "Problemer med udbydere",
-    "message": "ShowWave.lol har igen problemer med nogle udbydere. Hvis du ikke kan finde eller afspille et afsnit, skal du skifte kilde. Vi forventer, at denne fejl fortsætter i tidsrummet nedenfor."
+    "message": "ShowWave.pw har igen problemer med nogle udbydere. Hvis du ikke kan finde eller afspille et afsnit, skal du skifte kilde. Vi forventer, at denne fejl fortsætter i tidsrummet nedenfor."
   },
   "onboarding": {
     "defaultConfirm": {
