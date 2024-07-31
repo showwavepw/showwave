@@ -76,7 +76,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
     "@babel/preset-typescript": "^7.24.7",
     "@rollup/wasm-node": "^4.19.1",
     "@types/chromecast-caf-sender": "^1.0.10",
